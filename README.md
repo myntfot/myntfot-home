@@ -1,4 +1,10 @@
 myntfot-home
 ============
 
-Hemsida
+$ git status
+
+$ git commit -a -m "message"
+
+$ git push
+
+
